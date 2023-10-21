@@ -42,7 +42,8 @@
     "redux": "^4.2.0",
     "slick-carousel": "^1.8.1",
     "tawkto-react": "^3.0.1",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "peer react@": "^0.14.6"
   },
   "devDependencies": {
     "@tailwindcss/line-clamp": "^0.4.0",
